@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-website-resume/static/css/main.1bf2b488.css",
+    "main.js": "/react-website-resume/static/js/main.1727850a.js",
+    "static/media/AboutMe.jpg": "/react-website-resume/static/media/AboutMe.c1195ddf8edc089eccb9.jpg",
+    "static/media/PyCraft.png": "/react-website-resume/static/media/PyCraft.cdd7fede497ccc3e84db.png",
+    "index.html": "/react-website-resume/index.html",
+    "main.1bf2b488.css.map": "/react-website-resume/static/css/main.1bf2b488.css.map",
+    "main.1727850a.js.map": "/react-website-resume/static/js/main.1727850a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf2b488.css",
+    "static/js/main.1727850a.js"
+  ]
+}
