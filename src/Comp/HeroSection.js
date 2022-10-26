@@ -4,6 +4,7 @@ import { Button } from './Button';
 import './HeroSection.css';
 
 
+
 function HeroSection() {
   return (
     <div className ='hero-container'>
@@ -13,15 +14,26 @@ function HeroSection() {
       <h2> A Junior Developer.</h2>
       <p>Why did the programmer quit his job?
       -- They never got arrays.</p>
+      
+
+      
       <div className='hero-btns'>
-         <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-         About Me
-         </Button>
+        
+         
          <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
          Lets Connect <i className='fa-brands fa-linkedin' />
          </Button>
       </div>
+
+         <div className ='hero-container2'>
+         
+         <h3 i className='fa-solid fa-arrow-down-long'></h3>
+         
+         
+         
+      </div>
     </div>
+    
       
     
   );

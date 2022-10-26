@@ -17,25 +17,25 @@
   }
   
   .Projects {
-    background-image: url('/src/images/img-2.jpg');
+    background-image: url('/public/images/img-home.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
   }
-  
+  video {object-fit: cover; width: 100%; height: 100%; position: fixed; z-index: -1; }
   .AboutMe {
-    background-image: url('/src/images/img-1.jpg');
+    background: url('/public/images/AboutMe.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 100px;
   }
   
   .ContactMe {
-    background-image: url('/src/images/img-8.jpg');
+    background-image: url('/public/images/img-8.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

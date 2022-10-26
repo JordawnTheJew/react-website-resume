@@ -32,7 +32,7 @@ function Bar() {
                  JH <i class="fa-solid fa-code"></i>
                </Link> 
                <div className= 'menu-icon' onClick={handleClick}>
-                <i className={click ? 'fas-times' : 'fas fa-bars'}/>
+                <i className={click ? 'fas-times' : 'fa-solid fa-ellipsis-vertical'}/>
                </div>
                <ul className={click ? 'nav-menu active' : 'nav-menu'}> 
                 <li className='nav-item'>

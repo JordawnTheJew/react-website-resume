@@ -74,6 +74,7 @@
   }
   
   .menu-icon {
+
     display: none;
   }
   
@@ -127,8 +128,8 @@
       position: absolute;
       top: 0;
       right: 0;
-      transform: translate(-100%, 60%);
-      font-size: 1.8rem;
+      transform: translate(-100%, 30%);
+      font-size: 38px;
       cursor: crosshair;
     }
   
